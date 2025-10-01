@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServarrMcp", "ServarrMcp\ServarrMcp.csproj", "{D1FDEC40-F46A-4F5D-B65E-518DF2FFEDD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8B80FB2-3BEF-4D30-8ECC-B3D29D3D2A9B}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FDEC40-F46A-4F5D-B65E-518DF2FFEDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FDEC40-F46A-4F5D-B65E-518DF2FFEDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FDEC40-F46A-4F5D-B65E-518DF2FFEDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FDEC40-F46A-4F5D-B65E-518DF2FFEDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
